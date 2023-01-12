@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Vecto/static/css/main.74dcd027.css",
+    "main.js": "/Vecto/static/js/main.1dfaa285.js",
+    "static/js/787.3e649e38.chunk.js": "/Vecto/static/js/787.3e649e38.chunk.js",
+    "static/media/slick.svg": "/Vecto/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Vecto/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Vecto/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Vecto/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Vecto/index.html",
+    "main.74dcd027.css.map": "/Vecto/static/css/main.74dcd027.css.map",
+    "main.1dfaa285.js.map": "/Vecto/static/js/main.1dfaa285.js.map",
+    "787.3e649e38.chunk.js.map": "/Vecto/static/js/787.3e649e38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74dcd027.css",
+    "static/js/main.1dfaa285.js"
+  ]
+}
